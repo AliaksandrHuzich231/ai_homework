@@ -1,0 +1,25 @@
+{
+  "errors": {
+    "unknown": "Unknown error",
+    "networkError": "No internet connection",
+    "badRequest": "Invalid request",
+    "notFound": "No results",
+    "internalServerError": "Server error",
+    "timeout": "Request waiting time exceeded"
+  },
+  "character": {
+    "searchHint": "Search by name...",
+    "noResults": "No characters found",
+    "status": "Status",
+    "species": "Species",
+    "gender": "Gender",
+    "hair": "Hair",
+    "origin": "Origin",
+    "aliases": "Aliases",
+    "abilities": "Abilities",
+    "unknown": "Unknown",
+    "generalInfo": "General Info",
+    "appTitle": "Final Space Characters",
+    "noData": "No data"
+  }
+}
